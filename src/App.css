@@ -20,3 +20,28 @@
 .App-link {
   color: #09d3ac;
 }
+
+a {
+  text-decoration: none;
+}
+
+.film-box {
+  Border: 2px solid green;
+  background-color: #efef33;
+  width:40%;
+  padding:20px;
+  margin-left:20%;
+}
+
+.film-box h4 {
+
+  padding:10px;
+  border:1px solid red;
+  margin: 5px;
+  background-color: #dadada;
+}
+
+.film-list ul li {
+
+  padding:10px;
+}
